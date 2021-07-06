@@ -14,10 +14,13 @@ Account login for testing purposes:
 ## Running program with Java 15
 
 **From root go to folder src:**
-`cd src`
+
+```cd src```
 
 **Compile all java files:**
-`javac *.java`
+
+```javac *.java```
 
 **Run program:**
-`java Program`
+
+```java Program```
