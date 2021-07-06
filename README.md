@@ -13,8 +13,11 @@ Account login for testing purposes:
 
 ## Running program with Java 15
 
-**Compile:**
-javac Program.java
+**From root go to folder src:**
+`cd src`
 
-**Run:**
-java Program
+**Compile all java files:**
+`javac *.java`
+
+**Run program:**
+`java Program`
